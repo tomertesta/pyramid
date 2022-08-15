@@ -11,7 +11,7 @@ Here I implement the blending using the gaussian and laplacian pyramids
 
 Example of the blemdimg:
 
-![Screenshot](blending 2.png)
+![Screenshot](blending.png)
 
 
 
